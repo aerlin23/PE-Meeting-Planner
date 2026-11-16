@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Meeting Planner",
-  "short_name": "Meeting Planner",
+  "name": "Meeting & Event Planner",
+  "short_name": "MEP",
   "description": "Planificateur interactif des salles de commission du Parlement européen",
   "lang": "fr",
   "start_url": "./",
