@@ -1,4 +1,4 @@
-const CACHE='pe-meeting-planner-v5.14',DATA_CACHE='pe-planner-vademecum';
+const CACHE='pe-meeting-planner-v5.15',DATA_CACHE='pe-planner-vademecum';
 const ROOT=new URL('./',self.location.href).href,SHELL=['./','./index.html','./manifest.webmanifest','./icon.svg','./icon-maskable.svg'];
 // Composition des commissions : fichier du Vademecum (même site GitHub Pages).
 const DATA=new URL('/Parlement-europeen_10th-term/members.json',self.location.origin).href;
